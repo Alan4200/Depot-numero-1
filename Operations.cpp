@@ -1,7 +1,7 @@
 #include "Operations.h"
 
 int addition(int a, int b)
-int exposant(int nb, int exp)	
+int factoriel(int nb)
 {
 	int resultat;
 	
